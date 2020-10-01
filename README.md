@@ -19,7 +19,8 @@
 <a target="_blank" href="https://medium.com/@empiremachine">
   <img align="left" alt="Sumit's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<br />
+<br>
+<br>
 
 Hi, I'm [Sumit Soni](https://isumit19.github.io/), upcoming Software Engineer at Microsoft India. Currently in my Final Year of Computer Science Engineering at Malaviya National Institute of Technology Jaipur.
 
