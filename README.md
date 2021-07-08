@@ -16,13 +16,13 @@
 <a target="_blank" href="https://fb.com/isumit19">
   <img align="left" alt="Sumit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a target="_blank" href="https://medium.com/@empiremachine">
+<!-- <a target="_blank" href="https://medium.com/@isumit19">
   <img align="left" alt="Sumit's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a> -->
 <br>
 <br>
 
-Hi, I'm [Sumit Soni](https://isumit19.github.io/), upcoming Software Engineer at Microsoft India. Currently in my Final Year of Computer Science Engineering at Malaviya National Institute of Technology Jaipur.
+Hi, I'm [Sumit Soni](https://isumit19.github.io/), Software Engineer at Microsoft India.
 
 **Languages and Tools:**  
 
