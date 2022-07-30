@@ -22,7 +22,7 @@
 <br>
 <br>
 
-Hi, I'm [Sumit Soni](https://isumit19.github.io/), Software Engineer at Microsoft India.
+Hi, I'm [Sumit Soni](https://isumit19.github.io/), Software Engineer at Google India.
 
 **Languages and Tools:**  
 
